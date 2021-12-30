@@ -1,1 +1,8 @@
-venv
+# virtual env
+venv/
+
+# Database
+db.sqlite3
+
+# Migrations
+blog/migrations/
